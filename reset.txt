@@ -11,4 +11,4 @@
     • stash
     • cherry-pick
     • reset
-
+ only • pull (с конфликтами слияния)
